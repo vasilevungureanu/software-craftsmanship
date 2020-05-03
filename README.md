@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * ["The Software Craftsman: Professionalism, Pragmatism, Pride" book](https://www.goodreads.com/book/show/23215733-the-software-craftsman)
+
+### To master, continue with
+
 * ["The Clean Coder: A Code of Conduct for Professional Programmers" book](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 * ["The Pragmatic Programmer: From Journeyman to Master" book](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 * ["Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" book](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
